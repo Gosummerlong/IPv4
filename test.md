@@ -8,4 +8,7 @@
 直接回车不能换行，<br>  
 要使用\<br>  
 hello hello  
-hello
+hello<br>
+![hello](https://github.com/Gosummerlong/hello-world/blob/master/Pic/2.jpg "test")<br>
+
+[![hello](https://github.com/Gosummerlong/hello-world/blob/master/Pic/1.JPG "test")](https://www.nikkei.com)
