@@ -6,8 +6,7 @@ Donate: Left is wechat pay , Right is Bitcoin(1HG5q7PX2ToTLo7xnd6S3HRyJmAxqXbtyU
 ![](https://github.com/Gosummerlong/hello-world/blob/master/Pic/2.jpg "Bitcoin")<br>
 [IPv4+  基于IPv4的扩展协议（v1)](https://github.com/Gosummerlong/hello-world/wiki/chinese)<br>
 [IPv4+  The Extended Protocol Based On IPv4(v1)](https://github.com/Gosummerlong/hello-world/wiki/English)<br>
-[]
-[]
-[]
-[]
-[]
+[IPv4+地址的全太阳系统一电话系统]<br>
+[基于IPv4+地址的全太阳系统一转帐，支付系统]<br>
+[The whole solar system Unified telephone system based on IPv+ address]<br>
+[The whole solar system transfer,payments system based on IPv+ address]<br>
